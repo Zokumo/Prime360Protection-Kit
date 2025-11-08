@@ -1,3 +1,5 @@
+# placeholder server
+print('server running')
 from flask import Flask
 
 app = Flask(__name__)
